@@ -1,4 +1,4 @@
-# tedc-mart
+# vonk-mart
 
 ## Project setup
 ```
